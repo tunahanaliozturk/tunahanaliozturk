@@ -73,9 +73,9 @@ I'm a passionate software engineer with 8+ years of experience building scalable
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moongazing&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moongazing&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moongazing&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tunahanaliozturk&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tunahanaliozturk&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tunahanaliozturk&layout=compact&theme=radical" />
 </p>
 
 ---
