@@ -56,4 +56,14 @@ Small, single-purpose, production-shaped building blocks for distributed .NET sy
 **Cloud** &nbsp; Azure (AKS, Functions, Key Vault) · AWS (Lambda, ECS, RDS)
 **DevOps & Observability** &nbsp; Docker · Kubernetes · Helm · GitHub Actions · OpenTelemetry · Prometheus · Grafana · Serilog · Polly
 
-<sub><a href="https://github.com/tunahanaliozturk?tab=repositories">All repositories →</a></sub>
+## GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tunahanaliozturk&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=graywhite" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=tunahanaliozturk&layout=compact&hide_border=true&langs_count=8&theme=graywhite" alt="top languages" />
+</p>
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tunahanaliozturk&hide_border=true&theme=graywhite" alt="streak" />
+</p>
+
+<sub align="center"><a href="https://github.com/tunahanaliozturk?tab=repositories">All repositories →</a></sub>
